@@ -1,0 +1,7 @@
+<resources>
+<style name="Theme.TeraRomanceTarot" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <item name="android:fontFamily">sans</item><item name="android:windowLightStatusBar">true</item>
+    <item name="android:statusBarColor">#FFE1EC</item><item name="android:navigationBarColor">#FFF3F7</item>
+    <item name="android:colorAccent">#FF6F9F</item>
+</style>
+</resources>
